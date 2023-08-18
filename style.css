@@ -65,7 +65,9 @@ section {
    margin: 10px;
 }
 
-
+.black {
+   color: black;
+}
 
 .projects {
    background-color: #9AC1F0;
